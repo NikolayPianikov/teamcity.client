@@ -1,1 +1,1 @@
-# teamcity.client
+# TeamCity Client for .NET
